@@ -94,3 +94,6 @@ services:
       - FINERACT_DEFAULT_TENANTDB_NAME=fineract_default
       - FINERACT_DEFAULT_TENANTDB_DESCRIPTION=Default Demo Tenant
       - JAVA_TOOL_OPTIONS="-Xmx1G"
+
+# Swagger api doc url
+# https://localhost:8443/fineract-provider/swagger-ui/index.html#/
